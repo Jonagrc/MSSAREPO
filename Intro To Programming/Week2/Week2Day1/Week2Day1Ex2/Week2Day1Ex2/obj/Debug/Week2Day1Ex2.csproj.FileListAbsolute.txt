@@ -1,0 +1,6 @@
+/Users/joeanamg/Desktop/AllFiles/10975AllFiles/Week2Day1/Week2Day1Ex2/Week2Day1Ex2/bin/Debug/Week2Day1Ex2.exe
+/Users/joeanamg/Desktop/AllFiles/10975AllFiles/Week2Day1/Week2Day1Ex2/Week2Day1Ex2/bin/Debug/Week2Day1Ex2.pdb
+/Users/joeanamg/Desktop/AllFiles/10975AllFiles/Week2Day1/Week2Day1Ex2/Week2Day1Ex2/obj/Debug/Week2Day1Ex2.csproj.AssemblyReference.cache
+/Users/joeanamg/Desktop/AllFiles/10975AllFiles/Week2Day1/Week2Day1Ex2/Week2Day1Ex2/obj/Debug/Week2Day1Ex2.csproj.CoreCompileInputs.cache
+/Users/joeanamg/Desktop/AllFiles/10975AllFiles/Week2Day1/Week2Day1Ex2/Week2Day1Ex2/obj/Debug/Week2Day1Ex2.exe
+/Users/joeanamg/Desktop/AllFiles/10975AllFiles/Week2Day1/Week2Day1Ex2/Week2Day1Ex2/obj/Debug/Week2Day1Ex2.pdb
